@@ -6,7 +6,6 @@ const footerLinks = {
   products: [
     { label: 'All Models', href: '/models' },
     { label: 'Compare Scooters', href: '/compare' },
-    { label: 'Book Test Ride', href: '/test-ride' },
     { label: 'Find Dealers', href: '/dealers' },
   ],
   company: [

@@ -86,11 +86,6 @@ export function Hero() {
                   Explore Models
                 </Button>
               </Link>
-              <Link href="/test-ride">
-                <Button variant="outline" size="lg">
-                  Book Test Ride
-                </Button>
-              </Link>
             </motion.div>
           </motion.div>
 
