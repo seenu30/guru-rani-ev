@@ -117,12 +117,6 @@ export function DealerMap({
                   >
                     Directions
                   </a>
-                  <a
-                    href={`/test-ride?dealer=${dealer.id}`}
-                    className="text-xs px-3 py-1.5 bg-accent text-white rounded hover:bg-accent/90 transition-colors"
-                  >
-                    Book Test Ride
-                  </a>
                 </div>
               </div>
             </Popup>

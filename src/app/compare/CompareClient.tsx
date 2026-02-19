@@ -59,10 +59,10 @@ export function CompareClient({ products }: CompareClientProps) {
               </Text>
               <div className="flex justify-center gap-4 flex-wrap">
                 <a
-                  href="/test-ride"
+                  href="/enquiry"
                   className="inline-flex items-center justify-center h-11 px-6 font-medium rounded-lg bg-accent text-white hover:bg-accent/90 transition-colors"
                 >
-                  Book a Test Ride
+                  Get a Quote
                 </a>
                 <a
                   href="/dealers"

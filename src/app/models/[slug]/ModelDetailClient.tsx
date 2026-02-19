@@ -129,11 +129,6 @@ export function ModelDetailClient({ product }: ModelDetailClientProps) {
                     Get Quote
                   </Button>
                 </Link>
-                <Link href="/test-ride" className="flex-1">
-                  <Button variant="outline" fullWidth size="lg">
-                    Book Test Ride
-                  </Button>
-                </Link>
               </div>
 
               {/* Quick Benefits */}

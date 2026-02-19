@@ -152,9 +152,6 @@ export default function EnquiryClient() {
               <Link href="/models">
                 <Button variant="outline">Explore Models</Button>
               </Link>
-              <Link href="/test-ride">
-                <Button variant="primary">Book Test Ride</Button>
-              </Link>
             </div>
           </div>
         </Container>

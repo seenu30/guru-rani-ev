@@ -209,10 +209,10 @@ export default function AboutPage() {
               </Text>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
-                  href="/test-ride"
+                  href="/enquiry"
                   className="inline-flex items-center justify-center h-12 px-8 font-medium rounded-lg bg-accent text-white hover:bg-accent/90 transition-colors"
                 >
-                  Book a Test Ride
+                  Get a Quote
                 </Link>
                 <Link
                   href="/models"

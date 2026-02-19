@@ -66,11 +66,6 @@ export function Navbar() {
 
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center gap-4">
-            <Link href="/test-ride">
-              <Button variant="outline" size="sm">
-                Book Test Ride
-              </Button>
-            </Link>
             <Link href="/enquiry">
               <Button size="sm">Get Quote</Button>
             </Link>
@@ -109,11 +104,6 @@ export function Navbar() {
                   </Link>
                 ))}
                 <div className="pt-4 space-y-2 border-t border-surface">
-                  <Link href="/test-ride" onClick={() => setIsOpen(false)}>
-                    <Button variant="outline" fullWidth>
-                      Book Test Ride
-                    </Button>
-                  </Link>
                   <Link href="/enquiry" onClick={() => setIsOpen(false)}>
                     <Button fullWidth>Get Quote</Button>
                   </Link>

@@ -116,16 +116,6 @@ export function DealerCard({
             >
               Get Directions
             </Button>
-            <Button
-              size="sm"
-              onClick={(e) => {
-                e.stopPropagation();
-                window.location.href = `/test-ride?dealer=${dealer.id}`;
-              }}
-              className="flex-1"
-            >
-              Book Test Ride
-            </Button>
           </div>
         </div>
       </Card>
